@@ -1,0 +1,10 @@
+.metadata/
+bin/
+target/
+Servers/
+.settings/
+.classpath
+.project
+*.log
+build/
+catalina.properties
